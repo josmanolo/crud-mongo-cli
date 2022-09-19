@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f249"
+  },
+  "user": "user1",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f24a"
+  },
+  "user": "user2",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f24b"
+  },
+  "user": "user3",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f24c"
+  },
+  "user": "user4",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f24d"
+  },
+  "user": "user5",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f24e"
+  },
+  "user": "user6",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f24f"
+  },
+  "user": "user7",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f250"
+  },
+  "user": "user8",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f251"
+  },
+  "user": "user9",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+},{
+  "_id": {
+    "$oid": "63193558376baf2fbb69f252"
+  },
+  "user": "user10",
+  "text": "Hola! :)",
+  "date": "14-07-2022"
+}]

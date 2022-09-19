@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6319344b376baf2fbb69f240"
+  },
+  "name": "prod2",
+  "price": 4534,
+  "imgUrl": "url",
+  "stock": 0
+},{
+  "_id": {
+    "$oid": "6319344b376baf2fbb69f242"
+  },
+  "name": "prod4",
+  "price": 1414,
+  "imgUrl": "url",
+  "stock": 100
+},{
+  "_id": {
+    "$oid": "6319344b376baf2fbb69f244"
+  },
+  "name": "prod6",
+  "price": 3186,
+  "imgUrl": "url",
+  "stock": 100
+},{
+  "_id": {
+    "$oid": "6319344b376baf2fbb69f246"
+  },
+  "name": "prod8",
+  "price": 4532,
+  "imgUrl": "url",
+  "stock": 0
+},{
+  "_id": {
+    "$oid": "6319344b376baf2fbb69f247"
+  },
+  "name": "prod9",
+  "price": 2354,
+  "imgUrl": "url",
+  "stock": 100
+},{
+  "_id": {
+    "$oid": "63193631376baf2fbb69f253"
+  },
+  "name": "Playera",
+  "price": 1799,
+  "imgUrl": "url",
+  "stock": 100
+}]
